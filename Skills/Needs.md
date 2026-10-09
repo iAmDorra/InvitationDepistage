@@ -5,7 +5,7 @@ If the invitation date is earlier than today's date, add one year to the current
 If the invitation date falls on a public holiday, adjust it to the next working day.
 If the invitation date falls on a Saturday or Sunday, adjust it to the following Monday.
 
-# Exemple
+# Example
 Birthday : 15/03/1980
 Today : 01/01/2023
 For uterine screening, the number of months is 2
